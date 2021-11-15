@@ -33,7 +33,7 @@ See https://github.com/protomaps/PMTiles/tree/master/python/bin for library usag
 
 ### JavaScript
 
-    <script src="https://unpkg.com/pmtiles@0.0.4/pmtiles.js"></script>
+    <script src="https://unpkg.com/pmtiles@latest/index.js"></script>
 
 Example of a raster PMTiles archive decoded and displayed in Leaflet:
 
